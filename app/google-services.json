@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "785582619861",
+    "firebase_url": "https://tidykart-1473604496837.firebaseio.com",
+    "project_id": "tidykart-1473604496837",
+    "storage_bucket": "tidykart-1473604496837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785582619861:android:758b2bce98e61f83",
+        "android_client_info": {
+          "package_name": "poly.pro205.tikykart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785582619861-3l2pkku3650mu42fsbf77m6fd5rjdpkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "poly.pro205.tikykart",
+            "certificate_hash": "FA4846765436AC1D93A5FF9B729D2B7D078E3B9E"
+          }
+        },
+        {
+          "client_id": "785582619861-7o7n8egt1ppn6u68f1d1m2c73fcpok27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7dBipHAAkP2rkmgUCas59UP2znufB2kY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785582619861-7o7n8egt1ppn6u68f1d1m2c73fcpok27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

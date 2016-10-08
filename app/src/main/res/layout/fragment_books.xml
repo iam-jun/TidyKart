@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AppActivity$PlaceholderFragment">
+
+    <TextView
+        android:text="Request for pickup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:id="@+id/txtEmptyBooking" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lvBooks"
+        android:choiceMode="singleChoice" />
+</LinearLayout>
